@@ -2,3 +2,7 @@
 Use vuforia SDK &amp; Untiy3D to build a kind of AR little game on android.
 
 I will keep going update this project.:sunglasses:
+
+| Target | Description |
+| ---- | ---- |
+|![Pikachu][https://github.com/Edward7Zhang/Unity3D_AR_Pokemon/raw/master/target/target.jpg] | Pikachu|
