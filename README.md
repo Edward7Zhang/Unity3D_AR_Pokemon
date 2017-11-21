@@ -5,4 +5,4 @@ I will keep going update this project.:sunglasses:
 
 | Target | Description |
 | ---- | ---- |
-|![Pikachu][https://github.com/Edward7Zhang/Unity3D_AR_Pokemon/raw/master/target/target.jpg] | Pikachu|
+|![Pikachu][target/target.jpg] | Pikachu|
