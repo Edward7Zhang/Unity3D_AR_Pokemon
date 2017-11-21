@@ -9,6 +9,6 @@ I will keep going update this project.:sunglasses:
 
 | Review| Description |
 | ---- | ---- |
-|![menu](target/menu.jpg) | Menu|
+|![menu](target/Menu.jpg) | Menu|
 |![withcard](target/withcard.jpg) | WithCard|
 |![withoutcard](target/withoutcard.jpg) | WithoutCard|
